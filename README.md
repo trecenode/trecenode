@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-Most of our projects are private gits, but we like to collaborate with others developers. 
-I’m looking to collaborate on React Native / Flutter projects for learn more 💪
+Most of my projects are private gits, but here you will find free scripts, plugins, and interesting code I found.
 
 ## Code
-PHP · Wordpress · Laravel
+PHP · Wordpress · Laravel · React Native
 
-## Contact us
+## Contact Me
 
 - ℹ️ Website: www.13node.com
-- 📞 Call us: +34 911 977 292 
+- 📞 Phone: +34 911 977 292 
 - 📞 Whatsapp: +34 676 642 375
